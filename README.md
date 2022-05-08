@@ -15,12 +15,15 @@
 
 ### 💬 Languages
 
-![GitHub followers](https://img.shields.io/github/followers/Martin7-1?style=social) ![Ptyhon](https://img.shields.io/badge/python-3.9-orange) ![Java](https://img.shields.io/badge/java-1.8-red) ![Unity 2D](https://img.shields.io/badge/Unity2D-2020.3LTS-yellow) ![Springboot](https://img.shields.io/badge/Springboot-2.6+-brightgreen) ![C#](https://img.shields.io/badge/'C#'-8.0+-orange) ![C++](https://img.shields.io/badge/C++-gcc9.0+-blue) ![C](https://img.shields.io/badge/C-gcc9.0+-blue)
+![GitHub followers](https://img.shields.io/github/followers/Martin7-1?style=social) ![Ptyhon](https://img.shields.io/badge/python-3.9-orange) ![Java](https://img.shields.io/badge/java-1.8-red) ![Unity 2D](https://img.shields.io/badge/Unity2D-2020.3LTS-yellow) ![Springboot](https://img.shields.io/badge/Springboot-2.6+-brightgreen) ![C++](https://img.shields.io/badge/C++-gcc9.0+-blue) ![C](https://img.shields.io/badge/C-gcc9.0+-blue)
 
 ### ✨ Contribution
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Martin7-1&count_private=true&count_private=true&theme=tokyonight&include_all_commits=true" alt="ZYinNJU's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martin7-1&layout=compact&theme=tokyonight" /></a> |
+| ------------- | ------------- |
 
 [![ZYinNJU's GitHub stats](https://github-readme-stats.vercel.app/api?username=Martin7-1&count_private=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 

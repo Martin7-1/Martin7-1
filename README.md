@@ -22,9 +22,5 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Martin7-1&count_private=true&count_private=true&theme=tokyonight&include_all_commits=true" alt="ZYinNJU's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martin7-1&layout=compact&theme=tokyonight" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Martin7-1&count_private=true&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="ZYinNJU's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martin7-1&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-[![ZYinNJU's GitHub stats](https://github-readme-stats.vercel.app/api?username=Martin7-1&count_private=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Martin7-1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

@@ -4,9 +4,11 @@
 **Martin7-1/Martin7-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-https://img.shields.io/github/followers/Martin7-1?style=social
+![GitHub followers](https://img.shields.io/github/followers/Martin7-1?style=social)
 
-https://img.shields.io/badge/python-3.9-orange
+![Ptyhon](https://img.shields.io/badge/python-3.9-orange)
+
+![Java](https://img.shields.io/badge/jav)
 
 * 🔭 I'm currently participating in the WeChat Mini Program Competition, and I was mainly responsible for the backend.
 * 🌱 I’m currently learning Springboot, Unity2D and Software Engineering.

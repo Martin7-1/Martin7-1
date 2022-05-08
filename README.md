@@ -4,6 +4,10 @@
 **Martin7-1/Martin7-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<div align="center">
+<img hight="300" width="700" alt="JPG" align="center" src="https://github.com/Martin7-1/Martin7-1/blob/main/assets/miku.jpg">
+</div>
+
 ### 😆 Intro
 
 * 🔭 I'm currently participating in the WeChat Mini Program Competition, and I was mainly responsible for the backend.
@@ -24,5 +28,3 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Martin7-1&count_private=true&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="ZYinNJU's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martin7-1&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-
-![Miku](https://github.com/Martin7-1/Martin7-1/blob/main/assets/miku.jpg)

@@ -19,7 +19,8 @@
 
 ### ✨ Contribution
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [![ZYinNJU's GitHub stats](https://github-readme-stats.vercel.app/api?username=Martin7-1&count_private=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 

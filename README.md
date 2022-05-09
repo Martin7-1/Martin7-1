@@ -12,7 +12,8 @@
 
 * 🔭 I'm currently participating in the WeChat Mini Program Competition, and I was mainly responsible for the backend.
 * 🌱 I’m currently learning Springboot, Unity2D and Software Engineering.
-* 📫 How to reach me: my email: 201250182@smail.nju.edu.cn
+* 🎆 I'm currently interested in machine learning and game engine develop
+* 📫 How to reach me: my email: 201250182@smail.nju.edu.cn | 1754350460@qq.com
 * ⚡ Fun fact: I am a MIKU FAN!
 
 
@@ -27,4 +28,9 @@
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Martin7-1&count_private=true&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="ZYinNJU's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martin7-1&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+### 🎮 Game Project
+
+1. [第二届中国大学生游戏开发创作大赛](https://www.bilibili.com/video/BV1uB4y1U7cs?spm_id_from=333.999.0.0)
+2. [网易雷火 x 南京大学计算机研究生会第五届Makers游戏比赛](https://www.bilibili.com/video/BV1hq4y1u71m?spm_id_from=333.999.0.0)
 

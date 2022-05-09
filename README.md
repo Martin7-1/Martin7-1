@@ -24,6 +24,16 @@
 ### ✨ Contribution
 
 <!--START_SECTION:waka-->
+
+```text
+C++              16 hrs 20 mins  █████████████░░░░░░░░░░░░   51.95 %
+Java             6 hrs 47 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.56 %
+YAML             4 hrs 3 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.89 %
+Markdown         2 hrs           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+SQL              1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+XML              28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+```
+
 <!--END_SECTION:waka-->
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Martin7-1&count_private=true&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="ZYinNJU's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martin7-1&layout=compact&theme=tokyonight&hide_border=true" /></a> |

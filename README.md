@@ -11,8 +11,8 @@
 ### 😆 Intro
 
 * 🔭 I'm currently participating in the WeChat Mini Program Competition, and I'm mainly responsible for the backend.
-* 🌱 I’m currently learning Springboot, Unity2D and Software Engineering.
-* 🎆 I'm currently interested in machine learning and game engine develop
+* 🌱 I’m currently learning Springboot and related technology stack(such as Mybatis, Redis, Mysql, Dubbo...), Unity2D and Software Engineering.
+* 🎆 I'm currently interested in Machine Learning and Game Engine Develop(mainly intersted in Graphics Rendering)
 * 📫 How to reach me: my email: 201250182@smail.nju.edu.cn | 1754350460@qq.com
 * ⚡ Fun fact: I am a MIKU FAN!
 

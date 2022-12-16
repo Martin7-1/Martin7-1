@@ -26,12 +26,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java                    13 hrs 4 mins   ████████████████▒░░░░░░░░   65.00 %
-Text                    3 hrs 40 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.27 %
-ANTLR v4 grammar file   1 hr 44 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
-Markdown                30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-AUTO_DETECTED           23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-JavaScript              13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Java                    8 hrs 8 mins    ██████████████▒░░░░░░░░░░   57.33 %
+Text                    3 hrs 22 mins   ██████░░░░░░░░░░░░░░░░░░░   23.82 %
+ANTLR v4 grammar file   1 hr 15 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
+AUTO_DETECTED           23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+Markdown                17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+JavaScript              13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 ```
 
 <!--END_SECTION:waka-->

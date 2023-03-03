@@ -26,12 +26,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown                   9 hrs 21 mins   █████████████░░░░░░░░░░░░   51.54 %
-Java                       7 hrs 25 mins   ██████████▒░░░░░░░░░░░░░░   40.85 %
-AUTO_DETECTED              26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-XML                        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-Docker                     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-Nginx Configuration        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Java                       9 hrs 26 mins   ██████████████░░░░░░░░░░░   55.62 %
+Markdown                   5 hrs 38 mins   ████████▒░░░░░░░░░░░░░░░░   33.25 %
+AUTO_DETECTED              51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+XML                        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Docker                     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Nginx Configuration        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```
 
 <!--END_SECTION:waka-->

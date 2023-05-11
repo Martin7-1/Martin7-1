@@ -26,11 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java                       20 hrs 38 mins  █████████████████▒░░░░░░░   69.87 %
-YAML                       3 hrs 14 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
-XML                        2 hrs 34 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
-Markdown                   52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-Nginx configuration file   29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Java                       21 hrs 46 mins  ██████████████████▒░░░░░░   73.48 %
+YAML                       3 hrs 19 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
+XML                        2 hrs 21 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
+Markdown                   52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+Nginx configuration file   27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
 ```
 
 <!--END_SECTION:waka-->

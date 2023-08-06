@@ -10,12 +10,10 @@
 
 ### 😆 Intro
 
-* 🔭 I‘m currently studying software engineering at Nanjing University
-* 🌱 I’m currently learning MicroService(Mainly about Spring Cloud Netflix && Alibaba)
-* 🎆 I'm currently interested in Machine Learning and Game Engine Develop(mainly intersted in Graphics Rendering)
-* 📫 How to reach me: my email: 201250182@smail.nju.edu.cn | 1754350460@qq.com
-* ⚡ Fun fact: I am a MIKU FAN!
-
+* 🔭 I‘m currently studying Software Engineering at Nanjing University.
+* 🌱 I’m currently using `Java`、`Spring Boot`、`Spring Cloud`.
+* 🎆 I'm currently interested in Machine Learning.
+* 📫 How to reach me: my email: 201250182@smail.nju.edu.cn | 1754350460@qq.com.
 
 ### 💬 Languages
 

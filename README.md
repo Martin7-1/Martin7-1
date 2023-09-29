@@ -24,11 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java               6 hrs 7 mins    ██████████████████████▒░░   89.81 %
-XML                26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
-Java Properties    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
-Markdown           4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-spring.factories   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Java              3 hrs 26 mins   ██████████████████████▓░░   90.91 %
+XML               17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
+Markdown          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->

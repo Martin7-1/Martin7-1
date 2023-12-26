@@ -11,13 +11,9 @@
 ### 😆 Intro
 
 * 🔭 I‘m currently studying Software Engineering at Nanjing University.
-* 🌱 I’m currently using `Java`、`Spring Boot`、`Spring Cloud`.
-* 🎆 I'm currently interested in Machine Learning.
+* 🌱 I’m currently using `Java`、`Spring Boot` and `Spring Cloud`.
+* 🎆 I'm currently interested in Machine Learning and LLM in code repair.
 * 📫 How to reach me: my email: 201250182@smail.nju.edu.cn | 1754350460@qq.com.
-
-### 💬 Languages
-
-![GitHub followers](https://img.shields.io/github/followers/Martin7-1?style=social) ![Ptyhon](https://img.shields.io/badge/python-3.9-orange) ![Java](https://img.shields.io/badge/java-1.8-red) ![Unity 2D](https://img.shields.io/badge/Unity2D-2020.3LTS-yellow) ![Springboot](https://img.shields.io/badge/Springboot-2.6+-brightgreen) ![C++](https://img.shields.io/badge/C++-gcc9.0+-blue) ![C](https://img.shields.io/badge/C-gcc9.0+-blue) [![wakatime](https://wakatime.com/badge/user/78a50d96-aff1-476c-b5d7-c89f839f4752.svg)](https://wakatime.com/@78a50d96-aff1-476c-b5d7-c89f839f4752)
 
 ### 🧸 Currently Language
 

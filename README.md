@@ -1,14 +1,16 @@
-### Hi there 👋
+### 🔋 2023 Code Stats
 
 <!--
 **Martin7-1/Martin7-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+![2023-code-stats](https://wakatime.com/wrapped/2023/78a50d96-aff1-476c-b5d7-c89f839f4752/108b13222c74f9cce56d78c12caf39aa9fba34a7.png)
+
 ### 😆 Intro
 
 * 🔭 I‘m currently studying Software Engineering in Nanjing University.
-* 🌱 I’m currently using `Java`、`Spring Boot` and `Spring Cloud`.
-* 🎆 I'm currently interested in Machine Learning and LLM in code repair.
+* 🌱 I prefer to use `Java` in IntelliJ IDEA. I am familiar with `Spring Boot` and `Spring Cloud`
+* 🎆 I'm interested in Machine Learning and LLM in code repair.
 * 📫 How to reach me: my email: 201250182@smail.nju.edu.cn | 1754350460@qq.com.
 
 ### 🧸 Currently Language
@@ -32,11 +34,9 @@ SQL              0 secs          ░░░░░░░░░░░░░░░�
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Martin7-1&count_private=true&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="ZYinNJU's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martin7-1&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-### 🎮 Project
+### 🎮 Contributing Projects
 
-1. [第二届中国大学生游戏开发创作大赛](https://www.bilibili.com/video/BV1uB4y1U7cs?spm_id_from=333.999.0.0)
-2. [网易雷火 x 南京大学计算机研究生会第五届Makers游戏比赛](https://www.bilibili.com/video/BV1hq4y1u71m?spm_id_from=333.999.0.0)
-3. [微信小程序开发大赛](https://www.bilibili.com/video/BV1xN4y1g7AS?spm_id_from=333.999.0.0&vd_source=ebbb8f26287895ee10e68ba66dded3d9)
+1. [langchain4j](https://github.com/langchain4j/langchain4j): simplify the integration of AI/LLM capabilities into your Java application.
 
 <div align="center">
 <img hight="300" width="700" alt="JPG" align="center" src="https://github.com/Martin7-1/Martin7-1/blob/main/assets/miku.jpg">

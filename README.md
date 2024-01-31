@@ -29,7 +29,7 @@ textmate           9 mins          ▒░░░░░░░░░░░░░░
 
 ### ✨ Contribution
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Martin7-1&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Martin7-1's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Martin7-1&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Martin7-1&count_private=true&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="ZYinNJU's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martin7-1&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |

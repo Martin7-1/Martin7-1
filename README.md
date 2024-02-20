@@ -18,7 +18,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python         2 hrs 47 mins   ███████████████████▒░░░░░   77.27 %
+Bash           34 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
+Shell Script   11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+textmate       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+Text           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->

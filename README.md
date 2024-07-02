@@ -18,11 +18,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Spring Boot Imports   6 mins          ████████████░░░░░░░░░░░░░   47.68 %
-Java                  5 mins          ██████████▒░░░░░░░░░░░░░░   41.19 %
-XML                   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
-Other                 0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
-spring.factories      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+Java                  1 hr 6 mins     █████████████████▓░░░░░░░   70.50 %
+XML                   20 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.43 %
+Spring Boot Imports   6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
+Other                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+spring.factories      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->

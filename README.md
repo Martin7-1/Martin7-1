@@ -10,8 +10,8 @@
 
 * 🔭 I‘m currently studying Software Engineering in Nanjing University.
 * 🌱 I prefer to use `Java` in IntelliJ IDEA. Main tech stack: `Spring Boot` and `Spring Cloud`
-* 🎆 I'm interested in Machine Learning and LLM in code repair and Assertion Generation.
-* 📫 How to reach me: my email: 201250182@smail.nju.edu.cn | 1754350460@qq.com.
+* 🎆 I'm interested in Machine Learning and LLM in Code Repair and Assertion Generation.
+* 📫 How to reach me: my email: yi.zheng.se@smail.nju.edu.cn | yi.zheng.se@gmail.com.
 
 ### 🧸 Currently Language
 

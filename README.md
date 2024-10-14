@@ -37,6 +37,7 @@ Shell Script       1 hr 7 mins     █░░░░░░░░░░░░░░
 ### 🎮 Contributing Projects
 
 1. [langchain4j](https://github.com/langchain4j/langchain4j): simplify the integration of AI/LLM capabilities into your Java application.
+2. [langchain4j-community](https://github.com/langchain4j/langchain4j-community): Maintainer.
 
 <div align="center">
 <img hight="300" width="700" alt="JPG" align="center" src="https://github.com/Martin7-1/Martin7-1/blob/main/assets/miku.jpg">

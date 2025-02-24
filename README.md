@@ -9,8 +9,8 @@
 ### 😆 Intro
 
 * 🔭 I‘m currently studying Software Engineering in Nanjing University.
-* 🌱 I prefer to use `Java` in IntelliJ IDEA. Main tech stack: `Spring Boot` and `Spring Cloud`.
-* 🎆 I'm interested in Machine Learning and LLM in Software Engineering tasks (mainly includ Code Repair, Assertion Generation, Test Case Generation, etc...).
+* 🌱 I prefer to use `Java` or `Python`.
+* 🎆 I'm interested in RAG and Agent with LLM. Currently, my research interests in LLM in Software Engineering tasks, including code repair, test case generation, etc...
 * 📫 How to reach me: my email: yi.zheng.se@smail.nju.edu.cn | yi.zheng.se@gmail.com.
 
 ### 🧸 Currently Language

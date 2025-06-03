@@ -8,9 +8,10 @@
 
 ### 😆 Intro
 
+* 💼 I'm currently doing an internship at Alibaba Group.
 * 🔭 I‘m currently studying Software Engineering in Nanjing University.
 * 🌱 I prefer to use `Java` or `Python`.
-* 🎆 I'm interested in RAG and Agent with LLM. Currently, my research interests in LLM in Software Engineering tasks, including code repair, test case generation, etc...
+* 🎆 I'm interested in RAG and Agent System with LLM. Currently, my research interests in LLM in Software Engineering tasks, including code repair, test case generation, etc...
 * 📫 How to reach me: my email: yi.zheng.se@smail.nju.edu.cn | yi.zheng.se@gmail.com.
 
 ### 🧸 Currently Language

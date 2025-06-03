@@ -4,7 +4,7 @@
 **Martin7-1/Martin7-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![2023-code-stats](https://wakatime.com/wrapped/2023/78a50d96-aff1-476c-b5d7-c89f839f4752/108b13222c74f9cce56d78c12caf39aa9fba34a7.png)
+<img width="1142" alt="image" src="https://github.com/user-attachments/assets/2f5c9c64-7a01-4c16-81a8-b67723ad5958" />
 
 ### 😆 Intro
 

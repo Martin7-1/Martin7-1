@@ -8,11 +8,9 @@
 
 ### 😆 Intro
 
-* 💼 I'm currently doing an internship at Alibaba Group, mainly working on MAAS platform development and AI Infra.
-* 🔭 I‘m currently studying Software Engineering in Nanjing University.
-* 🌱 I prefer to use `Java` or `Python`, my main tech stack contains Spring Boot and Spring Cloud in Java, PyTorch and Transformers in Python.
-* 🎆 I'm interested in AI Infra/RAG/Agent System with LLM. Currently, my research interests in LLM in SWE(Software Engineering), including code repair, test case generation, etc...
-* 📫 How to reach me: my email: yi.zheng.se@smail.nju.edu.cn | yi.zheng.se@gmail.com.
+1. 💼 I'm currently working at Alibaba Inc., focusing on AI inference platform and MAAS development.
+2. 🌱 My current tech stack centers around Vibe Coding, and I enjoy working with tools like Claude Code and Codex.
+3. 🎆 I'm particularly interested in LLM inference optimization, load balancing, and AI agent systems.
 
 ### 🧸 Currently Language
 
@@ -44,8 +42,4 @@ Other            40 mins               ██░░░░░░░░░░░�
 
 1. [Improving Retrieval-Augmented Deep Assertion Generation via Joint Training](https://arxiv.org/pdf/2502.10696)
 2. [Improving Deep Assertion Generation via Fine-Tuning Retrieval-Augmented Pre-trained Language Models](https://dl.acm.org/doi/pdf/10.1145/3721128)
-
-<div align="center">
-<img hight="300" width="700" alt="JPG" align="center" src="https://github.com/Martin7-1/Martin7-1/blob/main/assets/miku.jpg">
-</div>
 

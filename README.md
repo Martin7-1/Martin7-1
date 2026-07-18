@@ -17,8 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TeX    12 mins               ███████████████████████▒░   92.91 %
-Text   0 secs                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

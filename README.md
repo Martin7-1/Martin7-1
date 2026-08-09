@@ -17,11 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-HTML             32 mins               ████████████████░░░░░░░░░   63.76 %
-Other            10 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.47 %
-Markdown         3 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
-Python           1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-XML              1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
